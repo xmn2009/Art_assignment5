@@ -1,0 +1,133 @@
+body{
+	font-family:Verdana, Helvetica, Arial, sans-serif;
+	background-color: #E8FDFE;
+	font-size:small;
+		
+}
+
+.allcontent{
+	width:800px;
+	margin-left:auto;
+	margin-right: auto;
+	padding: 10px 20px 5px 20px;
+}
+
+#navbar{
+	text-align:center;
+	background-color:#FFFFCC;
+}
+
+#navbar li{
+	list-style: none;
+	display:inline;
+	margin-right:20px;
+}
+
+#sidebar{
+	width: 200px;
+	float: right;
+	height: 120px;
+	padding: 20px;
+	background-color: white;
+	//position: relative;
+}
+
+.ad{
+	opacity: 0;
+}
+
+.Showing{
+	width: 200px;
+	height:auto;
+	opacity: 0.2;
+	
+}
+
+.main{
+	width:500px;
+	background-color: white;
+	padding: 20px;
+}
+
+.centerPosi{
+	padding: 1
+	width: 800px;
+	background-color: white;
+	display: block;	
+}
+
+#detail div{
+	opacity:0;
+}
+
+#detail li:hover{
+	background: #a4deef;
+	font-size:larger;
+	font-weight: bold;  
+}
+
+
+#logo{
+	display: block;
+	margin: auto;
+}
+
+
+h1 :hover{
+	padding: 10px;
+	background:#DCDCDC;
+}
+
+footer{
+	padding: 5px 0px 5px 5px;
+	font-size: 80%;
+	text-align: center;
+}
+
+.mapouter{
+	margin: auto;
+ }
+
+.em{
+	font-weight: bold;
+}
+
+//<!-- below are for gifts_newsletter.html and form.html-->
+
+#canvas li{
+	list-style: none;
+}
+
+
+#registerForm{
+	margin-left:auto;
+	margin-right: auto;
+
+
+}
+		
+label {
+	float: left;
+	width: 200px;
+	margin: 10px 10px 10px 100px;
+	padding: 1px;
+}
+		
+input,select{
+	box-sizing: border-box;
+	width: 200px
+	padding: 1px;
+	margin: 10px 5px 10px 5px;
+	background: white;
+	//vertical-align: middle;		
+}
+
+.leftLast{
+	margin-left: 317px;
+}
+
+.radioSpan{
+	margin-left: 55px;
+}
+		
+
